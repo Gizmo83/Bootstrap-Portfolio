@@ -20,10 +20,31 @@ body {
     margin-bottom: 20px;
 }
 
-span {
+.labels {
     position: absolute;
     top: 150px;
+    background: rgba(169, 172, 172, 0.80);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#label1 {
     left: 16px;
-    background: rgba(169, 172, 172, 0.62);
-    padding: 6px 61px;
+    padding: 6px 92px;
+}
+
+#label2 {
+    left: 16px;
+    padding: 6px 86px;
+}
+
+#label3 {
+    left: 16px;
+    padding: 6px 80px;
+}
+
+#label4 {
+    left: 16px;
+    padding: 6px 42px;
 }
