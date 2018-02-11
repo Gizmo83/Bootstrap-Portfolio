@@ -1,0 +1,29 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin-bottom: 70px;
+    background-image: url("../images/bg.png");
+}
+.footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 60px;
+    padding-top: 20px;
+}
+
+.imagebox {
+    max-block-size: 200px;
+    margin-bottom: 20px;
+}
+
+span {
+    position: absolute;
+    top: 150px;
+    left: 16px;
+    background: rgba(169, 172, 172, 0.62);
+    padding: 6px 61px;
+}
